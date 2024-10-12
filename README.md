@@ -3,7 +3,7 @@
 [Click here to play the game!](https://ashleysally00.github.io/FaceMaskGame_for_browser/)
 
 
-## Copyright Notice for Character
+### Copyright Notice for Character
 
 **Copyright © 2024 Ashley Rice. All rights reserved.**
 
